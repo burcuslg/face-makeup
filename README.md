@@ -1,2 +1,2 @@
-# face-makeup
+# Makyaj Aktarımı Projesi 
 pyhton3
